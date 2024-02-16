@@ -4552,3 +4552,19 @@ section {
   height: 80px;
   margin-bottom: 20px;
 }
+
+.pricesss {
+  padding: 10px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  background-origin: border-box;
+  border-color: #4458dc;
+  background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+  border: 2px solid #854fee;
+}
+
+.pricesss b {
+  color: #854fee;
+}
