@@ -4558,6 +4558,7 @@ section {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 10px;
   border-radius: 5px;
   background-origin: border-box;
   border-color: #4458dc;
