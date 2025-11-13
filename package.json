@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^3.2.3",
+    "astro": "^5.15.6",
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
